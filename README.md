@@ -1,4 +1,4 @@
-# Pcbangstudio settings sample
+# [Pcbangstudio](https://github.com/edp1096/pcbangstudio) settings sample
 
 ## Restore
 * Clone this repository
