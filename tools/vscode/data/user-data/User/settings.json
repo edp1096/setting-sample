@@ -255,5 +255,8 @@
     "php.suggest.basic": false,
     "intelephense.format.enable": true,
     "workbench.iconTheme": "vscode-icons",
-    "vsicons.dontShowNewVersionMessage": true
+    "vsicons.dontShowNewVersionMessage": true,
+    "git.enableSmartCommit": true,
+    "scm.alwaysShowRepositories": true,
+    "git.confirmSync": false
 }
